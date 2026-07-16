@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola 👋 Soy Kevin Andre De La Cruz Villugas</h1>
-  <p><strong>Estudiante de Ingeniería de Sistemas apasionado por el análisis de sistemas, el desarrollo backend y la infraestructura TI.</strong></p>
+  <p><strong>Estudiante de Ingeniería de Sistemas del 8vo ciclo. En este perfil comparto proyectos de desarrollo de software y TI realizados a lo largo de mi trayectoria académica.</strong></p>
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/assets/space.gif" width="300px" alt="Space GIF">
 </div>
 
